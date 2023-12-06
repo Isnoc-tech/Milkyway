@@ -90,6 +90,10 @@
     transition: .5s;
 }
 
+#new-nav{
+    color: var(--dark) !important;
+}
+
 .sticky-top.navbar-light .navbar-nav .nav-link {
     padding: 20px 0;
     color: var(--dark) !important;
@@ -172,7 +176,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bg-hero.jpg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/room1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
